@@ -1,0 +1,72 @@
+.body{
+    display:flex;
+    flex-direction: row;
+}
+.formin{
+    border: 2px solid black;
+    width:25%;
+    height:400px;
+    background-color: bisque;
+}
+#form{
+    justify-content: center;
+}
+#first_name{
+    width:80%;
+}
+#last_name{
+    width:80%;
+}
+#address{
+    width:80%;
+    height:50px;
+    text-align:left;
+}
+#pincode{
+    width:80%;
+}
+#gender{
+    margin-top: 10px;
+}
+#food1{
+    width:50%;
+    margin-top: 10px;
+}
+#food2{
+    width:50%;
+    margin-top: 10px;
+}
+#state{
+    width:80%;
+}
+#country{
+    width:80%;
+}
+#button{
+    margin-top: 10px;
+    align-content: center;
+    margin-left: 30%;
+    width:40%;
+    cursor: pointer;
+}
+.tab{
+    background-color:darkgray;
+}
+th,td{
+    border: 2px solid black;
+    padding:5px;
+    text-align: center;
+}
+#title{
+    text-align:center;
+}
+#description{
+    text-align:center;
+}
+.mainform{
+    border:2px solid black;
+    margin:0 auto;
+}
+body{
+    background-color:darkgrey;
+}
